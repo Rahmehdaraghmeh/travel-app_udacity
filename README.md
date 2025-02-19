@@ -15,7 +15,7 @@ The application integrates several APIs to retrieve data, including:
 
 ## Node.js Version
 
-This project was developed using **Node.js version 18.18.0**. To ensure compatibility, it is recommended that you use this version or a compatible one when setting up the project. You can check your Node.js version by running:
+This project was developed using **Node.js version 20.18.0**. To ensure compatibility, it is recommended that you use this version or a compatible one when setting up the project. You can check your Node.js version by running:
 
 node -v
 
